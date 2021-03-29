@@ -158,6 +158,7 @@ public class TerminalFragment extends Fragment implements ServiceConnection, Ser
                 }
             }
         });
+
         return view;
     }
 
