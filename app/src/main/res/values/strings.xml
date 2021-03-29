@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TechVid19</string>
-    <string name="devices">Bluetooth Devices</string>
+    <string name="devices">Your Bluetooth Devices</string>
+    <string name="on_off_ventilator">Click Button to Turn On/Off Ventilation</string>
 </resources>
